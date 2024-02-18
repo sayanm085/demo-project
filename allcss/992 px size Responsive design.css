@@ -1,0 +1,25 @@
+@media (max-width:992px){
+    nav{
+        height: 520px;
+    }
+    .allMenu{
+     flex-direction: column-reverse;
+     align-items: center;
+     height: 520px;
+    }
+
+    .Menu {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        justify-content: space-evenly;
+        height:450px;
+        width: 70%;
+        
+    }
+
+    .Menu li{
+        
+    }
+    
+}
